@@ -1,0 +1,21 @@
+.main-content {
+    background-color: #e0ceb4;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+}
+.navbar > a {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+h1 {
+    font-size: 40px;
+}
+body {
+    background-color: #1f1709;
+}
+header, footer {
+    text-align: center;
+}
